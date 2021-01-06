@@ -14,7 +14,7 @@
     "test": "npm run build && mocha test/setup.js test/*.spec.js --exit"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel": "^6.23.0",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
